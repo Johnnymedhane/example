@@ -1,4 +1,1 @@
-# html-css-projects
-hello lets try!
-second try!
-lergg j
+example for how to creat folder and file!
